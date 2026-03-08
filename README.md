@@ -1,5 +1,5 @@
 # High-Resolution-Spectroscopy-Analysis-of-HD-149026-b
-This repository contains coding scripts used in [Rafi+ (2024)](https://arxiv.org/abs/2407.01266) (accepted to AJ), which are used to analyze high-resolution spectroscopy (HRS) data of the hot Saturn HD 149026 b with CARMENES/NIR.
+This repository contains coding scripts used in [Rafi+ (2024)](https://arxiv.org/abs/2407.01266) (published in AJ), which are used to analyze high-resolution spectroscopy (HRS) data of the hot Saturn HD 149026 b with CARMENES/NIR.
 
 The HRS data is taken from the publicly available database of CARMENES that can be accessed from [here](http://caha.sdc.cab.inta-csic.es/calto/jsp/searchform.jsp). For convenience, the near-infrared (NIR) data (in FITS files) from fiber A, which is used in the analysis, is provided in this repository under `data/spectrum/` folder. This is for **transmission spectroscopy** data only.
 
